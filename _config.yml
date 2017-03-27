@@ -1,0 +1,8 @@
+name: "Dandy Game Shop"
+description: "All your used games needs"
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
