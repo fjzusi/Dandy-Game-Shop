@@ -2,9 +2,9 @@
 title: Dandy Game Shop
 ---
 
-<div ng-app="myApp" ng-init="firstName='John'">
+<div ng-app="myApp" ng-controller="myCtrl">
 	<h1>Dandy Game Shop</h1>
-	<p>Name: <input type="text" ng-model="firstName"></p>
-	<p ng-bind="firstName"></p>
-	<p>Expression: {( 5 + 5 )}
+	<p>First Name: <input type="text" ng-model="firstName"></p>
+	<p>Last Name: <input type="text" ng-model="lastName"></p>
+	<p>Full Name {(firstName + " " + lastName)}
 </div>

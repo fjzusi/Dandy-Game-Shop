@@ -1,6 +1,11 @@
-var myApp = angular.module('myApp', []);
+var app = angular.module('myApp', []);
 
-myApp.config([
+app.controller("myCtrl", function($scope) {
+	$scope.firstName = "Lord";
+	$scope.lastName = "Joe";
+});
+
+app.config([
 	'$interpolateProvider', function($interpolateProvider) {
 		return $interpolateProvider.startSymbol('{(').endSymbol(')}');
 	}
