@@ -1,3 +1,44 @@
-{
-	"Something is here"
-}
+[
+	{
+		"id": 1,
+		"title": "Witcher III",
+		"subtitle": "The Wild Hunt",
+		"price": 49.99
+	},
+	{
+		"id": 2,
+		"title": "Overwatch",
+		"subtitle": "",
+		"price": 39.99
+	},
+	{
+		"id": 3,
+		"title": "Dark Souls",
+		"subtitle": "Prepare to Die Edition",
+		"price": 29.99
+	},
+	{
+		"id": 4,
+		"title": "Mark of the Ninja",
+		"subtitle": "",
+		"price": 19.99
+	},
+	{
+		"id": 5,
+		"title": "Overcooked",
+		"subtitle": "",
+		"price": 9.99
+	},
+	{
+		"id": 6,
+		"title": "Angry Birds",
+		"subtitle": "",
+		"price": 1.99
+	},
+	{
+		"id": 7,
+		"title": "Rocket League",
+		"subtitle": "",
+		"price": 15.99
+	}
+]

@@ -1,9 +1,9 @@
 app.config(function($routeProvider) {
   $routeProvider
   .when("/", {
-    templateUrl : "catalog.html"
+    templateUrl : "views/catalog.html"
   })
-  .when("/item", {
-    templateUrl : "item.html"
+  .when("/item/:id", {
+    templateUrl : "views/game.html"
   });
 });
