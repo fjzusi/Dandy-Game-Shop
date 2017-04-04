@@ -6,7 +6,7 @@ title: Dandy Game Shop
 	<h1>Dandy Game Shop</h1>
 	<p>First Name: <input type="text" ng-model="firstName"></p>
 	<p>Last Name: <input type="text" ng-model="lastName"></p>
-	<p ng-bind="firstName + ' ' + lastName"><p>
+	<p>{( firstName )} {( lastName | uppercase )}<p>
 	
 	<input style="background-color: {(myColor)}" ng-model="myColor" value="{(myColor)}" />
 	
