@@ -1,14 +1,41 @@
 ---
-title: Dandy Game Shop
+layout: null
 ---
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content="Dandy Used Games Store">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<div ng-app="myApp" ng-controller="myCtrl">
-	<h1>Dandy Game Shop</h1>
-	<p>First Name: <input type="text" ng-model="firstName"></p>
-	<p>Last Name: <input type="text" ng-model="lastName"></p>
-	<p>{( firstName )} {( lastName | uppercase )}<p>
-	
-	<input style="background-color: {(myColor)}" ng-model="myColor" value="{(myColor)}" />
-	
-	<div my-shopping-cart></div>
-</div>
+		<title>Dandy Game Shop</title>
+
+		<link type="image/png" rel="apple-touch-icon" href="/Dandy-Game-Shop/img/icon/57x57.png"  />
+		<link type="image/png" rel="apple-touch-icon" href="/Dandy-Game-Shop/img/icon/76x76.png" sizes="76x76" />
+		<link type="image/png" rel="apple-touch-icon" href="/Dandy-Game-Shop/img/icon/120x120.png" sizes="120x120" />
+		<link type="image/png" rel="apple-touch-icon" href="/Dandy-Game-Shop/img/icon/152x152.png" sizes="152x152" />
+		<link type="image/png" rel="apple-touch-icon" href="/Dandy-Game-Shop/img/icon/180x180.png" sizes="180x180" />
+		<link type="image/png" rel="icon" href="/Dandy-Game-Shop/img/icon/192x192.png" sizes="192x192" />
+		<link type="image/png" rel="icon" href="/Dandy-Game-Shop/img/icon/128x128.png" sizes="128x128" />
+
+		<link type="text/css" rel="stylesheet" href="/Dandy-Game-Shop/css/normalize.css">
+		<link type="text/css" rel="stylesheet" href="/Dandy-Game-Shop/css/vendor/bootstrap.min.css">
+		<link type="text/css" rel="stylesheet" href="/Dandy-Game-Shop/css/vendor/bootstrap-theme.min.css">
+		<link type="text/css" rel="stylesheet" href="/Dandy-Game-Shop/css/main.css">
+
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/modernizr-2.8.3.min.js"></script>
+	</head>
+	<body ng-app="dandy-game-shop">
+		<div ng-view></div>
+		
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/jquery-3.2.0.min.js"></script>
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/angular.min.js"></script>
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/angular-route.min.js"></script>
+
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/plugins.js"></script>
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/app.js"></script>
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/routes.js"></script>
+	</body>
+</html>
