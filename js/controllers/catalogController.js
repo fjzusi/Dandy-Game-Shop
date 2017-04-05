@@ -1,6 +1,6 @@
 app.controller('catalogController',
-	['$scope', 'gamesService',
-	function ($scope, gamesService) {
+	['$scope', 'gamesService', 'cartService',
+	function ($scope, gamesService, cartService) {
 		gamesService
 			.getAllGames()
 			.then(function (data) {

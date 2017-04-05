@@ -4,6 +4,8 @@ app.controller('cartController',
 		$scope.cartOpen = false;
 		$scope.cartEmpty = false;
 		
+		$rootScope.cartItems = {};
+		
 		var cartWrapper = $('.cd-cart-container');
 		var cartBody = cartWrapper.find('.body')
 		var cartList = cartBody.find('ul').eq(0);

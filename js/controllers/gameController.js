@@ -1,6 +1,6 @@
 app.controller('gameController',
-	['$scope', '$routeParams', 'gamesService',
-	function ($scope, $routeParams, gamesService) {
+	['$scope', '$routeParams', 'gamesService', 'cartService',
+	function ($scope, $routeParams, gamesService, cartService) {
 		var id = $routeParams.id;
 		
 		gamesService
