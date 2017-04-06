@@ -11,7 +11,7 @@
 		<div class="wrapper">
 			<header>
 				<h2>Cart</h2>
-				<span class="undo" ng-class="{'visible':hasLastDelete}">Item removed <a href="#0">Undo</a></span>
+				<span class="undo" ng-class="{'visible':hasLastDelete}">Item removed <a ng-click="undoDelete()">Undo</a></span>
 			</header>
 			
 			<div class="body">
@@ -26,11 +26,7 @@
 								<div class="quantity">
 									<label>Qty</label>
 									<span class="select">
-										<select id="cd-product-'+ productId +'" name="quantity">
-							for(var i = 1; i < 10; i++) {
-								productHTML += '<option value="' + i + '">' + i +'</option>';
-							}
-										</select>
+										<select ng-model="selQuantity" ng-change="updateQuantity(game.id, selQuantity)" data-ng-options="quantity as quantity for quantity in quantities"></select>
 									</span>
 								</div>
 							</div>

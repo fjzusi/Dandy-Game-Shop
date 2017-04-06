@@ -5,6 +5,7 @@ app.controller('cartController',
 		$scope.cartEmpty = false;
 		$scope.lastDelete = {};
 		$scope.hasLastDelete = false;
+		$scope.quantities = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 		
 		$scope.toggleCart = function() {
 			$scope.cartOpen = !$scope.cartOpen;
