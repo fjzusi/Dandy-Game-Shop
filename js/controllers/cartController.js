@@ -1,41 +1,36 @@
 app.controller('cartController',
-	['$scope', '$rootScope',
-	function ($scope, $rootScope) {
+	['$scope', 'cartService',
+	function ($scope, cartService) {
 		$scope.cartOpen = false;
 		$scope.cartEmpty = false;
-		
-		$rootScope.cartItems = {};
-		
-		var cartWrapper = $('.cd-cart-container');
-		var cartBody = cartWrapper.find('.body')
-		var cartList = cartBody.find('ul').eq(0);
-		var cartTotal = cartWrapper.find('.checkout').find('span');
-		var cartTrigger = cartWrapper.children('.cd-cart-trigger');
-		var cartCount = cartTrigger.children('.count')
-		var addToCartBtn = $('.cd-add-to-cart');
-		var undo = cartWrapper.find('.undo');
-		var undoTimeoutId;
+		$scope.lastDelete = {};
+		$scope.hasLastDelete = false;
 		
 		$scope.toggleCart = function() {
 			$scope.cartOpen = !$scope.cartOpen;
-			/*var cartIsOpen = ( typeof bool === 'undefined' ) ? cartWrapper.hasClass('cart-open') : bool;
-
-			if( cartIsOpen ) {
-				cartWrapper.removeClass('cart-open');
-				//reset undo
-				clearInterval(undoTimeoutId);
-				undo.removeClass('visible');
-				cartList.find('.deleted').remove();
-
-				setTimeout(function(){
-					cartBody.scrollTop(0);
-					//check if cart empty to hide it
-					if( Number(cartCount.find('li').eq(0).text()) == 0) cartWrapper.addClass('empty');
-				}, 500);
-			} else {
-				cartWrapper.addClass('cart-open');
+			$scope.lastDelete = {};
+			$scope.hasLastDelete = false;
+		}
+		
+		$scope.deleteFromCart = function(gameId) {
+			var quantity = cartService.deleteFromCart(gameId);
+			if(quantity > 0) {
+				$scope.lastDelete.id = gameId;
+				$scope.lastDelete.quantity = quantity;
+				$scope.hasLastDelete = true;
 			}
-			*/
+		}
+		
+		$scope.updateQuantity = function(gameId, quantity) {
+			cartService.updateQuantity(gameId, quantity);
+		}
+		
+		$scope.undoDelete = function() {
+			if($scope.hasLastDelete) {
+				cartService.addToCart($scope.lastDelete.id, $scope.lastDelete.quantity);
+				$scope.lastDelete = {};
+				$scope.hasLastDelete = false;
+			}
 		}
 	}]
 );

@@ -1,0 +1,47 @@
+<!-- <div class="cd-cart-container empty" ng-controller="cartController"> -->
+<div class="cd-cart-container" ng-class="{'cart-open':cartOpen, 'empty':cartEmpty}" ng-controller="cartController">
+	<a href="#0" class="cd-cart-trigger" ng-click="toggleCart()">
+		Cart
+		<ul class="count">
+			<li>{{ cartItems.length }}</li>
+		</ul>
+	</a>
+
+	<div class="cd-cart">
+		<div class="wrapper">
+			<header>
+				<h2>Cart</h2>
+				<span class="undo" ng-class="{'visible':hasLastDelete}">Item removed <a href="#0">Undo</a></span>
+			</header>
+			
+			<div class="body">
+				<ul>
+					<li class="product" ng-repeat="game in cartItems">
+						<div class="product-image"><a href="/Dandy-Game-Shop/#!/item/{{game.id}}"><img src="{{game.image}}" alt="{{game.title}}"></a></div>
+						<div class="product-details">
+							<h3><a href="/Dandy-Game-Shop/#!/item/{{game.id}}">{{game.title}}</a></h3>
+							<span class="price">${{game.price|number:'2'}}</span>
+							<div class="actions">
+								<a href="#0" class="delete-item" ng-click="deleteFromCart(game.id)">Delete</a>
+								<div class="quantity">
+									<label>Qty</label>
+									<span class="select">
+										<select id="cd-product-'+ productId +'" name="quantity">
+							for(var i = 1; i < 10; i++) {
+								productHTML += '<option value="' + i + '">' + i +'</option>';
+							}
+										</select>
+									</span>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+
+			<footer>
+				<a href="/Dandy-Game-Shop/#!/checkout" class="checkout"><em>Checkout - $<span>0</span></em></a>
+			</footer>
+		</div>
+	</div>
+</div>

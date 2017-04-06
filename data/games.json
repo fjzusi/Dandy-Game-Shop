@@ -3,42 +3,49 @@
 		"id": 1,
 		"title": "Witcher III",
 		"subtitle": "The Wild Hunt",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 49.99
 	},
 	{
 		"id": 2,
 		"title": "Overwatch",
 		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 39.99
 	},
 	{
 		"id": 3,
 		"title": "Dark Souls",
 		"subtitle": "Prepare to Die Edition",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 29.99
 	},
 	{
 		"id": 4,
 		"title": "Mark of the Ninja",
 		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 19.99
 	},
 	{
 		"id": 5,
 		"title": "Overcooked",
 		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 9.99
 	},
 	{
 		"id": 6,
 		"title": "Angry Birds",
 		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 1.99
 	},
 	{
 		"id": 7,
 		"title": "Rocket League",
 		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 15.99
 	}
 ]

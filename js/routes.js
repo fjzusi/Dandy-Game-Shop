@@ -5,5 +5,7 @@ app.config(function($routeProvider) {
   })
   .when("/item/:id", {
     templateUrl : "views/game.html"
+  }).when("/checkout", {
+    templateUrl : "views/checkout.html"
   });
 });

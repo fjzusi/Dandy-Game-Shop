@@ -29,36 +29,7 @@ layout: null
 	</head>
 	<body ng-app="dandy-game-shop">
 		<div ng-view></div>
-		
-		<!-- <div class="cd-cart-container empty" ng-controller="cartController"> -->
-		<div class="cd-cart-container" ng-class="{'cart-open':cartOpen, 'empty':cartEmpty}" ng-controller="cartController">
-			<a href="#0" class="cd-cart-trigger" ng-click="toggleCart()">
-				Cart
-				<ul class="count">
-					<li>0</li>
-					<li>0</li>
-				</ul>
-			</a>
-
-			<div class="cd-cart">
-				<div class="wrapper">
-					<header>
-						<h2>Cart</h2>
-						<span class="undo">Item removed. <a href="#0">Undo</a></span>
-					</header>
-					
-					<div class="body">
-						<ul>
-							<!-- products added to the cart will be inserted here using JavaScript -->
-						</ul>
-					</div>
-
-					<footer>
-						<a href="#0" class="checkout"><em>Checkout - $<span>0</span></em></a>
-					</footer>
-				</div>
-			</div>
-		</div>
+		<game-cart></game-cart>		
 		
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/jquery-3.2.0.min.js"></script>
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/bootstrap.min.js"></script>
@@ -75,6 +46,7 @@ layout: null
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/controllers/gameController.js"></script>
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/controllers/cartController.js"></script>
 		
+		<script type="text/javascript" src="/Dandy-Game-Shop/js/directives.js"></script>
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/routes.js"></script>
 	</body>
 </html>
