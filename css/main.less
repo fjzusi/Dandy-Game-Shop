@@ -90,6 +90,9 @@ textarea {
 @background-color: #E5DADA;
 @text-color: #02040F;
 
+@text-color-hover: #0E1B66;
+@flavor-color-hover: #152A9F;
+
 /* ==========================================================================
    Shopping Cart
    ========================================================================== */
@@ -229,8 +232,8 @@ Main Components
   right: -10px;
   height: 28px;
   width: 28px;
-  background: #e94b35;
-  color: #ffffff;
+  background: @accent-color;
+  color: white;
   font-size: 1rem;
   font-weight: bold;
   border-radius: 50%;
@@ -317,10 +320,10 @@ Main Components
   padding: 0 1.4em;
   height: 40px;
   line-height: 40px;
-  background-color: #ffffff;
+  background-color: @background-color;
   -webkit-transition: opacity .2s 0s;
   transition: opacity .2s 0s;
-  border-bottom: 1px solid #e6e6e6;
+  border-bottom: 1px solid @text-color;
 }
 .cd-cart header::after {
   clear: both;
@@ -331,7 +334,7 @@ Main Components
   bottom: 0;
   border-radius: 0 0 6px 6px;
   box-shadow: 0 -2px 20px rgba(0, 0, 0, 0.15);
-  background: #ffffff;
+  background: white;
 }
 .cd-cart h2 {
   text-transform: uppercase;
@@ -365,7 +368,7 @@ Main Components
   height: 72px;
   line-height: 72px;
   margin-right: 72px;
-  background: #2c97de;
+  background: @flavor-color;
   color: rgba(255, 255, 255, 0);
   text-align: center;
   font-size: 1.8rem;
@@ -374,7 +377,7 @@ Main Components
   transition: all .2s 0s;
 }
 .cd-cart .checkout:hover {
-  background: #399ee0;
+  background: @flavor-color-hover;
 }
 .cd-cart .checkout em {
   position: relative;
@@ -499,10 +502,10 @@ Main Components
   overflow: hidden;
 }
 .cd-cart h3 a {
-  color: #2b3e51;
+  color: @text-color;
 }
 .cd-cart h3 a:hover {
-  color: #2c97de;
+  color: @text-color-hover;
 }
 .cd-cart .price {
   float: right;
