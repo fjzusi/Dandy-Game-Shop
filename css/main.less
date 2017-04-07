@@ -94,6 +94,10 @@ textarea {
    Shopping Cart
    ========================================================================== */
 
+img {
+  max-width: 100%;
+}
+
 .cd-add-to-cart {
   display: inline-block;
   padding: 1.2em 1.8em;
@@ -331,7 +335,7 @@ Main Components
 .cd-cart h2 {
   text-transform: uppercase;
   display: inline-block;
-  font-size: 1.4rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: .1em;
 }
@@ -414,6 +418,7 @@ Main Components
   padding: 0 1.4em;
   position: relative;
   padding-bottom: 90px;
+  list-style: none;
 }
 .cd-cart .body li {
   position: relative;
@@ -504,7 +509,7 @@ Main Components
   text-align: right;
 }
 .cd-cart .actions {
-  font-size: 1.4rem;
+  font-size: 1rem;
   height: 1.6em;
   line-height: 1.6em;
 }
@@ -558,7 +563,6 @@ Main Components
   background: transparent;
   border: none;
   border-radius: 0;
-  font-size: 1.4rem;
   margin: 0;
   color: #808b97;
 }
@@ -653,7 +657,7 @@ Main Components
     width: calc( 100% - 90px);
   }
   .cd-cart h3, .cd-cart .price {
-    font-size: 1.8rem;
+    font-size: 1rem;
   }
 }
 
@@ -831,7 +835,9 @@ Main Components
    Bootstrap Overrides
    ========================================================================== */
 
-
+h1, h2, h3 {
+	margin: 0;
+}
 
 /* ==========================================================================
    Helper classes
