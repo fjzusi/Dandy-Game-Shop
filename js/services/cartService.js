@@ -7,6 +7,9 @@ function cartService($rootScope, gamesService) {
 	this.addToCart = function(gameId, quantity) {
 		for(var i = 0; i < $rootScope.cartItems.length; i++) {
 			if($rootScope.cartItems[i].id == gameId) {
+				if($rootScope.cartItems[i].quantity + quantity > 10) {
+					return;
+				}
 				$rootScope.cartItems[i].quantity += quantity;
 				calculateCartTotal();
 				return;
@@ -36,6 +39,10 @@ function cartService($rootScope, gamesService) {
 	}
 	
 	this.updateQuantity = function(gameId, quantity) {
+		if(quantity > 10) {
+			return;
+		}
+		
 		for(var i = 0; i < $rootScope.cartItems.length; i++) {
 			if($rootScope.cartItems[i].id == gameId) {
 				$rootScope.cartItems[i].quantity = quantity;
