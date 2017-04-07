@@ -2,11 +2,13 @@ app.service("cartService", ['$rootScope', 'gamesService', cartService])
 
 function cartService($rootScope, gamesService) {
 	$rootScope.cartItems = [];
+	$rootScope.cartTotal = 50;
 	
 	this.addToCart = function(gameId, quantity) {
 		for(var i = 0; i < $rootScope.cartItems.length; i++) {
 			if($rootScope.cartItems[i].id == gameId) {
 				$rootScope.cartItems[i].quantity += quantity;
+				calculateCartTotal();
 				return;
 			}
 		}
@@ -16,6 +18,7 @@ function cartService($rootScope, gamesService) {
 			.then(function (game) {
 				game.quantity = quantity;
 				$rootScope.cartItems.push(game);
+				calculateCartTotal();
 			});
 	}
 	
@@ -24,6 +27,7 @@ function cartService($rootScope, gamesService) {
 			if($rootScope.cartItems[i].id == gameId) {
 				var quantity = $rootScope.cartItems[i].quantity;
 				$rootScope.cartItems.splice(i, 1);
+				calculateCartTotal();
 				return quantity;
 			}
 		}
@@ -35,8 +39,17 @@ function cartService($rootScope, gamesService) {
 		for(var i = 0; i < $rootScope.cartItems.length; i++) {
 			if($rootScope.cartItems[i].id == gameId) {
 				$rootScope.cartItems[i].quantity = quantity;
+				calculateCartTotal();
 				return;
 			}
+		}
+	}
+	
+	function calculateCartTotal() {
+		$rootScope.cartTotal = 0;
+		for(var i = 0; i < $rootScope.cartItems.length; i++) {
+			var game = $rootScope.cartItems[i];
+			$rootScope.cartTotal += game.price * game.quantity;
 		}
 	}
 }
