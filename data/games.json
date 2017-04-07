@@ -47,5 +47,201 @@
 		"subtitle": "",
 		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
 		"price": 15.99
+	},
+	{
+		"id": 8,
+		"title": "Metal Gear Solid 3",
+		"subtitle": "Snake Eater",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 9,
+		"title": "And Yet It Moves",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 5.99
+	},
+	{
+		"id": 10,
+		"title": "Bioshock",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 25.99
+	},
+	{
+		"id": 11,
+		"title": "Tales of Symphonia",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 12,
+		"title": "God Hand",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 13,
+		"title": "Until Dawn",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 59.99
+	},
+	{
+		"id": 14,
+		"title": "Minecraft",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 15,
+		"title": "Dark Souls 3",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 29.99
+	},
+	{
+		"id": 16,
+		"title": "Street Fighter 4",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 59.99
+	},
+	{
+		"id": 17,
+		"title": "Final Fantasy 14",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 29.99
+	},
+	{
+		"id": 18,
+		"title": "Horizon Zero Dawn",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 59.99
+	},
+	{
+		"id": 19,
+		"title": "Final Fantasy 15",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 59.99
+	},
+	{
+		"id": 20,
+		"title": "Defense Grid",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 21,
+		"title": "Plants vs. Zombies",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 2.99
+	},
+	{
+		"id": 22,
+		"title": "Dishonored",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 23,
+		"title": "Styx: Master of Shadows",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 24,
+		"title": "XCOM: Enemy Unknown",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 25,
+		"title": "Fallout 3",
+		"subtitle": "Game of the Year Edition",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 26,
+		"title": "Don't Starve",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 27,
+		"title": "Miasmata",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 28,
+		"title": "Torchlight",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 29,
+		"title": "Ori and the Blind Forest",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 30,
+		"title": "Amnesia: The Dark Descent",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 31,
+		"title": "Burnout Paradise",
+		"subtitle": "Ultimate Edition",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 10.99
+	},
+	{
+		"id": 32,
+		"title": "The Wolf Among Us",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 9.99
+	},
+	{
+		"id": 33,
+		"title": "Singularity",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 19.99
+	},
+	{
+		"id": 34,
+		"title": "Bastion",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 15.99
+	},
+	{
+		"id": 35,
+		"title": "Far Cry 3",
+		"subtitle": "",
+		"image": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+		"price": 24.99
 	}
 ]
