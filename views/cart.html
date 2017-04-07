@@ -22,11 +22,11 @@
 							<h3><a href="/Dandy-Game-Shop/#!/item/{{game.id}}">{{game.title}}</a></h3>
 							<span class="price">${{game.price|number:'2'}}</span>
 							<div class="actions">
-								<a href="#0" class="delete-item" ng-click="deleteFromCart(game.id)">Delete</a>
+								<a class="delete-item" ng-click="deleteFromCart(game.id)">Delete</a>
 								<div class="quantity">
 									<label>Qty</label>
 									<span class="select">
-										<select ng-model="selQuantity" ng-change="updateQuantity(game.id, selQuantity)" data-ng-options="quantity as quantity for quantity in quantities"></select>
+										<select ng-model="game.quantity" ng-change="updateQuantity(game.id, game.quantity)" data-ng-options="quantity as quantity for quantity in quantities"></select>
 									</span>
 								</div>
 							</div>
