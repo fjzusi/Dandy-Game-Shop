@@ -11,9 +11,12 @@ function cartService($rootScope, gamesService) {
 			}
 		}
 		
-		var game = gamesService.getGameDetails(gameId);
-		game.quantity = quantity;
-		$rootScope.cartItems.push(game);
+		gamesService
+			.getGameDetails(gameId)
+			.then(function (game) {
+				game.quantity = quantity;
+				$rootScope.cartItems.push(game);
+			});
 	}
 	
 	this.deleteFromCart = function(gameId) {

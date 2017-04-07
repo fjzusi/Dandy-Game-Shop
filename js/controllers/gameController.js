@@ -10,6 +10,10 @@ app.controller('gameController',
 				$scope.title = data.title;
 				$scope.subtitle = data.subTitle;
 				$scope.price = data.price;
-			});	
+			});
+			
+		$scope.addToCart = function(gameId, quantity) {
+			cartService.addToCart(gameId, quantity);
+		}
 	}]
 );

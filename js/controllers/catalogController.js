@@ -5,6 +5,10 @@ app.controller('catalogController',
 			.getAllGames()
 			.then(function (data) {
 				$scope.games = data;
-			});	
+			});
+		
+		$scope.addToCart = function(gameId, quantity) {
+			cartService.addToCart(gameId, quantity);
+		}
 	}]
 );

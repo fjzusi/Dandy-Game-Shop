@@ -13,6 +13,7 @@
 			<td>{{game.title}}</td>
 			<td>${{game.price | number : 2}}</td>
 			<td><a href="/Dandy-Game-Shop/#!/item/{{game.id}}">View</a></td>
+			<td><a data-ng-click="addToCart(game.id, 1)">Add To Cart</a></td>
 		</tr>
 	</table>
 </div>
