@@ -2,6 +2,8 @@ app.service("cartService", ['$rootScope', 'gamesService', cartService])
 
 function cartService($rootScope, gamesService) {
 	$rootScope.cartItems = [];
+	$rootScope.cartEmpty = true;
+	$rootScope.cartOpen = false;
 	$rootScope.cartTotal = 50;
 	
 	this.addToCart = function(gameId, quantity) {
@@ -57,6 +59,11 @@ function cartService($rootScope, gamesService) {
 		for(var i = 0; i < $rootScope.cartItems.length; i++) {
 			var game = $rootScope.cartItems[i];
 			$rootScope.cartTotal += game.price * game.quantity;
+		}
+		
+		$rootScope.cartEmpty = $rootScope.cartItems.length == 0;
+		if($rootScope.cartEmpty) {
+			$rootScope.cartOpen = false;
 		}
 	}
 }

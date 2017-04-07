@@ -1,14 +1,12 @@
 app.controller('cartController',
-	['$scope', 'cartService',
-	function ($scope, cartService) {
-		$scope.cartOpen = false;
-		$scope.cartEmpty = false;
+	['$scope', '$rootScope', 'cartService',
+	function ($scope, $rootScope, cartService) {
 		$scope.lastDelete = {};
 		$scope.hasLastDelete = false;
 		$scope.quantities = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 		
 		$scope.toggleCart = function() {
-			$scope.cartOpen = !$scope.cartOpen;
+			$rootScope.cartOpen = !$rootScope.cartOpen;
 			$scope.lastDelete = {};
 			$scope.hasLastDelete = false;
 		}
