@@ -4,6 +4,7 @@
 	<table class="table">
 		<tr>
 			<th>ID</th>
+			<th>Cover</th>
 			<th>Title</th>
 			<th>Price</th>
 			<th></th>
@@ -11,6 +12,7 @@
 		</tr>
 		<tr ng-repeat="game in games">
 			<td>{{game.id}}</td>
+			<td><img ng-src="{{game.image.cover}}" alt="{{game.title}}" /></td>
 			<td>{{game.title}}</td>
 			<td>${{game.price | number : 2}}</td>
 			<td><a href="/Dandy-Game-Shop/#!/item/{{game.id}}">View</a></td>

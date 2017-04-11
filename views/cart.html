@@ -16,7 +16,7 @@
 			<div class="body">
 				<ul>
 					<li class="product" ng-repeat="game in cartItems">
-						<div class="product-image"><a href="/Dandy-Game-Shop/#!/item/{{game.id}}" ng-click="toggleCart()"><img ng-src="{{game.image}}" alt="{{game.title}}"></a></div>
+						<div class="product-image"><a href="/Dandy-Game-Shop/#!/item/{{game.id}}" ng-click="toggleCart()"><img ng-src="{{game.image.cart}}" alt="{{game.title}}"></a></div>
 						<div class="product-details">
 							<h3><a href="/Dandy-Game-Shop/#!/item/{{game.id}}" ng-click="toggleCart()">{{game.title}}</a></h3>
 							<span class="price">${{game.price|number:'2'}}</span>
