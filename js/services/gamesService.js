@@ -14,8 +14,13 @@ function gamesService($http) {
 			.get('/Dandy-Game-Shop/data/games.json')
 			.then(function (response) {
 				var topSellers = [];
-				for(var i = 0; i < response.data.length && i < num; i++){
-					topSellers.push(response.data[i]);
+				for(var i = 0; i < response.data.length; i++){
+					if(response.data[i].topseller) {
+						topSellers.push(response.data[i]);
+						if(topSellers.length >= num) {
+							break;
+						}
+					}
 				}
 				
 				return topSellers;

@@ -5,8 +5,10 @@
 		"subtitle": "The Wild Hunt",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/witcher_3.jpg"
 		},
+		"topseller": false,
 		"price": 49.99
 	},
 	{
@@ -15,8 +17,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "/Dandy-Game-Shop/img/game/banner/overwatch.jpg",
 			"cover": "/Dandy-Game-Shop/img/game/cover/overwatch.jpg"
 		},
+		"topseller": true,
 		"price": 39.99
 	},
 	{
@@ -25,8 +29,10 @@
 		"subtitle": "Prepare to Die Edition",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/dark_souls.jpg"
 		},
+		"topseller": false,
 		"price": 29.99
 	},
 	{
@@ -35,8 +41,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/mark_of_the_ninja.png"
 		},
+		"topseller": false,
 		"price": 19.99
 	},
 	{
@@ -45,8 +53,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/overcooked.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -55,8 +65,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/angry_birds.jpg"
 		},
+		"topseller": false,
 		"price": 1.99
 	},
 	{
@@ -65,8 +77,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/rocket_league.jpg"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -75,8 +89,10 @@
 		"subtitle": "Snake Eater",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/metal_gear_solid_3.jpg"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -85,8 +101,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/and_yet_it_moves.png"
 		},
+		"topseller": false,
 		"price": 5.99
 	},
 	{
@@ -95,8 +113,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "/Dandy-Game-Shop/img/game/banner/bioshock.jpg",
 			"cover": "/Dandy-Game-Shop/img/game/cover/bioshock.jpg"
 		},
+		"topseller": true,
 		"price": 25.99
 	},
 	{
@@ -105,8 +125,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/tales_of_symphonia.jpg"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -115,8 +137,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/god_hand.png"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -125,8 +149,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/until_dawn.jpg"
 		},
+		"topseller": false,
 		"price": 59.99
 	},
 	{
@@ -135,8 +161,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "/Dandy-Game-Shop/img/game/banner/minecraft.jpg",
 			"cover": "/Dandy-Game-Shop/img/game/cover/minecraft.jpg"
 		},
+		"topseller": true,
 		"price": 9.99
 	},
 	{
@@ -145,8 +173,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "/Dandy-Game-Shop/img/game/banner/dark_souls_3.jpg",
 			"cover": "/Dandy-Game-Shop/img/game/cover/dark_souls_3.jpg"
 		},
+		"topseller": true,
 		"price": 29.99
 	},
 	{
@@ -155,8 +185,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/super_street_fighter_4.jpg"
 		},
+		"topseller": false,
 		"price": 59.99
 	},
 	{
@@ -165,8 +197,10 @@
 		"subtitle": "A Realm Reborn",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/final_fantasy_14.jpg"
 		},
+		"topseller": false,
 		"price": 29.99
 	},
 	{
@@ -175,8 +209,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "/Dandy-Game-Shop/img/game/banner/horizon_zero_dawn.jpg",
 			"cover": "/Dandy-Game-Shop/img/game/cover/horizon_zero_dawn.jpg"
 		},
+		"topseller": true,
 		"price": 59.99
 	},
 	{
@@ -185,8 +221,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/final_fantasy_15.jpg"
 		},
+		"topseller": false,
 		"price": 59.99
 	},
 	{
@@ -195,8 +233,10 @@
 		"subtitle": "The Awakening",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/defense_grid.jpg"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -205,8 +245,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "/Dandy-Game-Shop/img/game/banner/plants_vs_zombies.jpg",
 			"cover": "/Dandy-Game-Shop/img/game/cover/plants_vs_zombies.jpg"
 		},
+		"topseller": true,
 		"price": 2.99
 	},
 	{
@@ -215,8 +257,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/dishonored.jpg"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -225,8 +269,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/styx_master_of_shadows.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -235,8 +281,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/xcom.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -245,8 +293,10 @@
 		"subtitle": "Game of the Year Edition",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/fallout_3.png"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -255,8 +305,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/dont_starve.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -265,8 +317,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/miasmata.png"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -275,8 +329,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/torchlight.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -285,8 +341,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/ori_and_the_blind_forest.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -295,8 +353,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/amnesia_the_dark_descent.png"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -305,8 +365,10 @@
 		"subtitle": "Ultimate Edition",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/burnout_paradise.jpg"
 		},
+		"topseller": false,
 		"price": 10.99
 	},
 	{
@@ -315,8 +377,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/the_wolf_among_us.jpg"
 		},
+		"topseller": false,
 		"price": 9.99
 	},
 	{
@@ -325,8 +389,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/singularity.jpg"
 		},
+		"topseller": false,
 		"price": 19.99
 	},
 	{
@@ -335,8 +401,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/bastion.jpg"
 		},
+		"topseller": false,
 		"price": 15.99
 	},
 	{
@@ -345,8 +413,10 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
 			"cover": "/Dandy-Game-Shop/img/game/cover/farcry_3.jpg"
 		},
+		"topseller": false,
 		"price": 24.99
 	}
 ]
