@@ -9,6 +9,19 @@ function gamesService($http) {
 			});
 	}
 	
+	this.getTopSellers = function(num) {
+		return $http
+			.get('/Dandy-Game-Shop/data/games.json')
+			.then(function (response) {
+				var topSellers = [];
+				for(var i = 0; i < response.data.length && i < num; i++){
+					topSellers.push(response.data[i]);
+				}
+				
+				return topSellers;
+			});
+	}
+	
 	this.getGameDetails = function(id) {
 		return $http
 			.get('/Dandy-Game-Shop/data/games.json')

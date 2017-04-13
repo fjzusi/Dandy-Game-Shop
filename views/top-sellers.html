@@ -1,0 +1,26 @@
+<div id="top-sellers-carousel" class="carousel slide" data-ride="carousel">
+	<!-- Indicators -->
+	<ol class="carousel-indicators">
+		<li ng-repeat="game in topSellers" data-target="#top-sellers-carousel" data-slide-to="{{$index}}" ng-class="{'active':$index==0}"></li>
+	</ol>
+
+	<!-- Wrapper for slides -->
+	<div class="carousel-inner" role="listbox">
+		<div class="item" ng-class="{'active':$index==0}" ng-repeat="game in topSellers">
+			<a href="/Dandy-Game-Shop/#!/item/{{game.id}}">
+				<img ng-src="{{game.image.cover}}" alt="{{game.title}}">
+				<div class="carousel-caption">{{game.title}}</div>
+			</a>
+		</div>
+	</div>
+
+	<!-- Controls -->
+	<a class="left carousel-control" ng-click="carouselPrev()">
+		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" ng-click="carouselNext()">
+		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
