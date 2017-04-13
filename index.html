@@ -28,7 +28,15 @@ layout: null
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/modernizr-2.8.3.min.js"></script>
 	</head>
 	<body ng-app="dandy-game-shop">
-		<div class="container" ng-view></div>
+		<div class="container">
+			<div class="banner">
+				<a href="/Dandy-Game-Shop">
+					<img class="img-responsive" src="/Dandy-Game-Shop/img/banner.svg" alt="Dandy Game Shop" />
+				</a>
+			</div>
+			<div ng-view></div>
+		</div>
+		
 		<game-cart></game-cart>
 		
 		<script type="text/javascript" src="/Dandy-Game-Shop/js/vendor/jquery-3.2.0.min.js"></script>
