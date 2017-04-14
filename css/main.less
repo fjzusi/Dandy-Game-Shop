@@ -98,10 +98,16 @@ body {
 	background-color: @background-color;
 }
 
+.carousel-header {
+    position: absolute;
+    z-index: 3;
+    color: @background-color;
+    background-color: @highlight-color;
+}
+
 /* ==========================================================================
    Shopping Cart
    ========================================================================== */
-
 img {
   max-width: 100%;
 }
@@ -128,10 +134,8 @@ img {
           transform: scale(0.9);
 }
 
-/* -------------------------------- 
-
-Main Components 
-
+/* --------------------------------
+Main Components
 -------------------------------- */
 .cd-cart-container::before {
   /* dark bg layer visible when the cart is open */

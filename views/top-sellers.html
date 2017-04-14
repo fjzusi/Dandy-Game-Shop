@@ -6,6 +6,7 @@
 
 	<!-- Wrapper for slides -->
 	<div class="carousel-inner" role="listbox">
+		<div class="carousel-header">Top Sellers</div>
 		<div class="item" ng-class="{'active':$index==0}" ng-repeat="game in topSellers">
 			<a href="/Dandy-Game-Shop/#!/item/{{game.id}}">
 				<img ng-src="{{game.image.banner}}" alt="{{game.title}}">
