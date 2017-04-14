@@ -6,4 +6,4 @@ Checkout
 Confirmation
 Shopping Cart
 
-Need to get carousel images that are all 1140px wide
+Need to get carousel images that are all 1140px by 855px

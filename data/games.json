@@ -161,7 +161,7 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
-			"banner": "/Dandy-Game-Shop/img/game/banner/minecraft.jpg",
+			"banner": "/Dandy-Game-Shop/img/game/banner/minecraft.png",
 			"cover": "/Dandy-Game-Shop/img/game/cover/minecraft.jpg"
 		},
 		"topseller": true,
@@ -245,7 +245,7 @@
 		"subtitle": "",
 		"image": {
 			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
-			"banner": "/Dandy-Game-Shop/img/game/banner/plants_vs_zombies.jpg",
+			"banner": "/Dandy-Game-Shop/img/game/banner/plants_vs_zombies.png",
 			"cover": "/Dandy-Game-Shop/img/game/cover/plants_vs_zombies.jpg"
 		},
 		"topseller": true,
