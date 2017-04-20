@@ -12,11 +12,13 @@
 				<h2>Cart</h2>
 				<span class="undo" ng-class="{'visible':hasLastDelete}">Item removed <a ng-click="undoDelete()">Undo</a></span>
 			</header>
-			
+
 			<div class="body">
 				<ul>
 					<li class="product" ng-repeat="game in cartItems">
-						<div class="product-image"><a href="/Dandy-Game-Shop/#!/item/{{game.id}}" ng-click="toggleCart()"><img ng-src="{{game.image.cart}}" alt="{{game.title}}"></a></div>
+						<div class="product-image">
+							<a href="/Dandy-Game-Shop/#!/item/{{game.id}}" ng-click="toggleCart()"><img ng-src="{{game.image.cover}}" alt="{{game.title}}"></a>
+						</div>
 						<div class="product-details">
 							<h3><a href="/Dandy-Game-Shop/#!/item/{{game.id}}" ng-click="toggleCart()">{{game.title}}</a></h3>
 							<span class="price">${{game.price|number:'2'}}</span>
