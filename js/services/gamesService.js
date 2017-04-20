@@ -1,14 +1,14 @@
-app.service("gamesService", ['$http', gamesService])
+app.service("gamesService", ['$http', '$filter', gamesService])
 
-function gamesService($http) {
+function gamesService($http, $filter) {
 	this.getAllGames = function() {
 		return $http
 			.get('/Dandy-Game-Shop/data/games.json')
 			.then(function (response) {
-				return response.data;
+				return $filter('orderBy')(response.data, 'title');
 			});
 	}
-	
+
 	this.getTopSellers = function(num) {
 		return $http
 			.get('/Dandy-Game-Shop/data/games.json')
@@ -22,11 +22,11 @@ function gamesService($http) {
 						}
 					}
 				}
-				
-				return topSellers;
+
+				return $filter('orderBy')(topSellers, 'title');
 			});
 	}
-	
+
 	this.getGameDetails = function(id) {
 		return $http
 			.get('/Dandy-Game-Shop/data/games.json')
