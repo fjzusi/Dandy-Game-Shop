@@ -30,7 +30,9 @@ app.controller('catalogController',
 
 		$scope.$watch(
 			"searchTerm",
+			function onSearchTermChange() {
 				gamesService
+					.searchGames()
 					.then(function (data) {
 						$scope.games = data;
 					});
