@@ -1,6 +1,18 @@
 <div ng-controller="catalogController">
 	<top-sellers></top-sellers>
-	
+
+	<div class="row">
+		<div class="col-xs-6 col-md-4 col-lg-3 catalog-game" ng-repeat="game in games">
+			<a href="/Dandy-Game-Shop/#!/item/{{game.id}}">
+				<img ng-src="{{game.image.cover}}" alt="{{game.title}}" class="img-responsive" />
+			</a>
+			<div class="catalog-price-container">
+				<span class="catalog-price">${{game.price | number : 2}}</span>
+				<input type="button" class="btn btn-warning catalog-button" ng-click="addToCart(game.id, 1)" value="Add to Cart" />
+			</div>
+		</div>
+	</div>
+
 	<!--
 	<table class="table">
 		<tr>
