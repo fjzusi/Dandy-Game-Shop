@@ -10,7 +10,6 @@
 		<div class="item" ng-class="{'active':$index==0}" ng-repeat="game in topSellers">
 			<a href="/Dandy-Game-Shop/#!/item/{{game.id}}">
 				<img ng-src="{{game.image.banner}}" alt="{{game.title}}">
-				<div class="carousel-caption">${{game.price|number:'2'}}</div>
 			</a>
 		</div>
 	</div>
