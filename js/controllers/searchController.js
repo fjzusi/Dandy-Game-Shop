@@ -1,10 +1,14 @@
 app.controller('searchController',
-	['$scope', '$routeParams', 'gamesService',
-	function ($scope, $routeParams, gamesService) {
+	['$scope', '$location', 'gamesService',
+	function ($scope, $location, gamesService) {
 		$scope.searchTerm = "";
-		
+
 		$scope.search = function() {
-			alert($scope.searchTerm);
+			if($location.path() != "/") {
+				$location.path("/");
+			}
+
+			gamesService.setSearchTerm($scope.searchTerm);
 		}
 	}]
 );

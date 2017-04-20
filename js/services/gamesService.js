@@ -1,11 +1,32 @@
-app.service("gamesService", ['$http', '$filter', gamesService])
+app.service("gamesService", ['$rootScope', '$http', '$filter', gamesService])
 
-function gamesService($http, $filter) {
+function gamesService($rootScope, $http, $filter) {
+	$rootScope.searchTerm = "";
+
 	this.getAllGames = function() {
 		return $http
 			.get('/Dandy-Game-Shop/data/games.json')
 			.then(function (response) {
 				return $filter('orderBy')(response.data, 'title');
+			});
+	}
+
+	this.setSearchTerm = function(searchTerm) {
+		$rootScope.searchTerm = searchTerm;
+	}
+
+	this.searchGames = function() {
+		return $http
+			.get('/Dandy-Game-Shop/data/games.json')
+			.then(function (response) {
+				var data = response.data;
+
+				if($rootScope.searchTerm != "") {
+					var searchObj = { title:$rootScope.searchTerm };
+					data = $filter('filter')(data, searchObj);
+				}
+
+				return $filter('orderBy')(data, 'title');
 			});
 	}
 

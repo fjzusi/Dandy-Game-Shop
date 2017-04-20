@@ -37,14 +37,14 @@ layout: null
 			</div>
 			<nav ng-controller="searchController">
 				<div class="container-fluid">
-					<form class="navbar-form navbar-right" ng-submit="search()">
+					<div class="navbar-form navbar-right">
 						<div class="input-group">
-							<input type="text" class="form-control" placeholder="Search" ng-model="searchTerm">
+							<input type="text" class="form-control" placeholder="Search" ng-model="searchTerm" ng-keyup="search()">
 							<span class="input-group-btn">
-								<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+								<button type="submit" class="btn btn-default" ng-click="search()"><span class="glyphicon glyphicon-search"></span></button>
 							</span>
 						</div>
-					</form>
+					</div>
 				</div>
 			</nav>
 			<div ng-view></div>
