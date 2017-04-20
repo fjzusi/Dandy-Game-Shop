@@ -94,6 +94,11 @@ textarea {
 
 @banner-font: 'Script MT Bold';
 
+@font-face {
+    font-family: 'Script MT Bold';
+    src: url(/Dandy-Game-Shop/css/fonts/SCRIPTBL.TTF);
+}
+
 body {
 	background-color: @background-color;
 }
@@ -101,8 +106,11 @@ body {
 .carousel-header {
     position: absolute;
     z-index: 3;
+    background-color: @accent-color;
     color: @background-color;
-    background-color: @highlight-color;
+    font-family: @banner-font;
+    font-size: 4rem;
+    padding: 10px 15px;
 }
 
 .catalog-game {
