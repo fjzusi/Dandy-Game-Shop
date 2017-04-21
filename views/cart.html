@@ -25,9 +25,14 @@
 							<div class="actions">
 								<a class="delete-item" ng-click="deleteFromCart(game.id)">Delete</a>
 								<div class="quantity">
-									<label>Qty</label>
+									<label ng-attr-for="{{'game-quantity-' + game.id}}">Qty</label>
 									<span class="select">
-										<select ng-model="game.quantity" ng-change="updateQuantity(game.id, game.quantity)" data-ng-options="quantity as quantity for quantity in quantities"></select>
+										<select
+											ng-attr-id="{{'game-quantity-' + game.id}}"
+											ng-model="game.quantity"
+											ng-change="updateQuantity(game.id, game.quantity)"
+											data-ng-options="quantity as quantity for quantity in quantities">
+										</select>
 									</span>
 								</div>
 							</div>
