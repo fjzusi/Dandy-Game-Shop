@@ -124,7 +124,13 @@ body {
     color: @background-color;
     padding: 5px;
     width: calc(100% - 30px);
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+  .catalog-price-container {
     text-align: right;
+  }
 }
 
 /* ==========================================================================
@@ -133,6 +139,10 @@ body {
 
 h1, h2, h3 {
 	margin: 0;
+}
+
+.img-responsive {
+  width: 100%;
 }
 
 /* ==========================================================================
