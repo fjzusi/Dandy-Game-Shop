@@ -1,8 +1,20 @@
 <div ng-controller="gameController">
-	<h1>Item</h1>
-	
-	{{id}}<br>
-	{{title}}<br>
-	{{subTitle}}<br>
-	${{price | number : 2}}
+	<div class="row">
+		<div class="item-header col-xs-12">
+			<h1>{{game.title}}<br><small>{{game.subtitle}}</small></h1>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="item-image col-md-3 col-sm-4 col-xs-12">
+			<img ng-src="{{game.image.cover}}" alt="{{game.title}}" class="img-responsive" />
+		</div>
+		<div class="item-details col-md-6 col-sm-5 col-xs-12">
+			<p ng-repeat="summary in game.summary">{{summary}}</p>
+		</div>
+		<div class="item-price col-md-3 col-sm-3 col-xs-12">
+			${{game.price | number : 2}}
+			<a class="btn btn-warning" ng-click="addToCart(game.id, 1)">Add to Cart</a>
+		</div>
+	</div>
 </div>

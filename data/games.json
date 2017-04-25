@@ -9,6 +9,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/witcher_3.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 49.99
 	},
 	{
@@ -21,6 +25,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/overwatch.jpg"
 		},
 		"topseller": true,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 39.99
 	},
 	{
@@ -33,6 +41,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/dark_souls.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 29.99
 	},
 	{
@@ -45,6 +57,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/mark_of_the_ninja.png"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 19.99
 	},
 	{
@@ -57,6 +73,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/overcooked.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -69,6 +89,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/angry_birds.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 1.99
 	},
 	{
@@ -81,6 +105,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/rocket_league.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -93,6 +121,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/metal_gear_solid_3.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -105,6 +137,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/and_yet_it_moves.png"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 5.99
 	},
 	{
@@ -117,6 +153,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/bioshock.jpg"
 		},
 		"topseller": true,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 25.99
 	},
 	{
@@ -129,6 +169,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/tales_of_symphonia.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -141,6 +185,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/god_hand.png"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -153,6 +201,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/until_dawn.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 59.99
 	},
 	{
@@ -165,6 +217,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/minecraft.jpg"
 		},
 		"topseller": true,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -177,6 +233,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/dark_souls_3.jpg"
 		},
 		"topseller": true,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 29.99
 	},
 	{
@@ -189,6 +249,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/super_street_fighter_4.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 59.99
 	},
 	{
@@ -201,6 +265,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/final_fantasy_14.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 29.99
 	},
 	{
@@ -213,6 +281,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/horizon_zero_dawn.jpg"
 		},
 		"topseller": true,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 59.99
 	},
 	{
@@ -225,6 +297,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/final_fantasy_15.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 59.99
 	},
 	{
@@ -237,6 +313,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/defense_grid.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -249,6 +329,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/plants_vs_zombies.jpg"
 		},
 		"topseller": true,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 2.99
 	},
 	{
@@ -261,6 +345,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/dishonored.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -273,6 +361,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/styx_master_of_shadows.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -285,6 +377,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/xcom.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -297,6 +393,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/fallout_3.png"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -309,6 +409,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/dont_starve.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -321,6 +425,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/miasmata.png"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -333,6 +441,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/torchlight.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -345,6 +457,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/ori_and_the_blind_forest.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -357,6 +473,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/amnesia_the_dark_descent.png"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -369,6 +489,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/burnout_paradise.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 10.99
 	},
 	{
@@ -381,6 +505,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/the_wolf_among_us.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 9.99
 	},
 	{
@@ -393,6 +521,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/singularity.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 19.99
 	},
 	{
@@ -405,6 +537,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/bastion.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 15.99
 	},
 	{
@@ -417,6 +553,10 @@
 			"cover": "/Dandy-Game-Shop/img/game/cover/farcry_3.jpg"
 		},
 		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
 		"price": 24.99
 	}
 ]
