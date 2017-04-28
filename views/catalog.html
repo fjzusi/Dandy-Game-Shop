@@ -6,7 +6,7 @@
 			</a>
 			<div class="catalog-price-container">
 				<span class="catalog-price">${{game.price | number : 2}}</span>
-				<input type="button" class="btn btn-warning catalog-button" ng-click="addToCart(game.id, 1)" value="Add to Cart" />
+				<a class="btn btn-warning catalog-button" title="Add to Cart" ng-click="addToCart(game.id, 1)"><span class="glyphicon glyphicon-shopping-cart"></span></a>
 			</div>
 		</div>
 	</div>
