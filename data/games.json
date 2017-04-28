@@ -593,5 +593,22 @@
 		],
 		"price": 15.99,
 		"score": 100
+	},
+	{
+		"id": 36,
+		"title": "Starcraft",
+		"subtitle": "",
+		"image": {
+			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
+			"cover": "/Dandy-Game-Shop/img/game/cover/starcraft.jpg"
+		},
+		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
+		"price": 15.99,
+		"score": 100
 	}
 ]
