@@ -13,7 +13,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 49.99
+		"price": 49.99,
+		"score": 87
 	},
 	{
 		"id": 2,
@@ -29,7 +30,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 39.99
+		"price": 39.99,
+		"score": 87
 	},
 	{
 		"id": 3,
@@ -45,7 +47,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 29.99
+		"price": 29.99,
+		"score": 87
 	},
 	{
 		"id": 4,
@@ -61,7 +64,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 19.99
+		"price": 19.99,
+		"score": 87
 	},
 	{
 		"id": 5,
@@ -77,7 +81,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 87
 	},
 	{
 		"id": 6,
@@ -93,7 +98,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 1.99
+		"price": 1.99,
+		"score": 87
 	},
 	{
 		"id": 7,
@@ -109,23 +115,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
-	},
-	{
-		"id": 8,
-		"title": "Metal Gear Solid 3",
-		"subtitle": "Snake Eater",
-		"image": {
-			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
-			"banner": "",
-			"cover": "/Dandy-Game-Shop/img/game/cover/metal_gear_solid_3.jpg"
-		},
-		"topseller": false,
-		"summary": [
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
-			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
-		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 87
 	},
 	{
 		"id": 9,
@@ -141,7 +132,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 5.99
+		"price": 5.99,
+		"score": 87
 	},
 	{
 		"id": 10,
@@ -157,7 +149,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 25.99
+		"price": 25.99,
+		"score": 87
 	},
 	{
 		"id": 11,
@@ -173,7 +166,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 63
 	},
 	{
 		"id": 12,
@@ -189,7 +183,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 63
 	},
 	{
 		"id": 13,
@@ -205,7 +200,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 59.99
+		"price": 59.99,
+		"score": 63
 	},
 	{
 		"id": 14,
@@ -221,7 +217,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 63
 	},
 	{
 		"id": 15,
@@ -237,7 +234,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 29.99
+		"price": 29.99,
+		"score": 63
 	},
 	{
 		"id": 16,
@@ -253,7 +251,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 59.99
+		"price": 59.99,
+		"score": 90
 	},
 	{
 		"id": 17,
@@ -269,7 +268,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 29.99
+		"price": 29.99,
+		"score": 90
 	},
 	{
 		"id": 18,
@@ -285,7 +285,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 59.99
+		"price": 59.99,
+		"score": 90
 	},
 	{
 		"id": 19,
@@ -301,7 +302,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 59.99
+		"price": 59.99,
+		"score": 90
 	},
 	{
 		"id": 20,
@@ -317,7 +319,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 90
 	},
 	{
 		"id": 21,
@@ -333,7 +336,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 2.99
+		"price": 2.99,
+		"score": 90
 	},
 	{
 		"id": 22,
@@ -349,7 +353,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 90
 	},
 	{
 		"id": 23,
@@ -365,7 +370,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 90
 	},
 	{
 		"id": 24,
@@ -381,7 +387,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 90
 	},
 	{
 		"id": 25,
@@ -397,7 +404,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 30
 	},
 	{
 		"id": 26,
@@ -413,7 +421,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 30
 	},
 	{
 		"id": 27,
@@ -429,7 +438,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 30
 	},
 	{
 		"id": 28,
@@ -445,7 +455,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 30
 	},
 	{
 		"id": 29,
@@ -461,7 +472,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 30
 	},
 	{
 		"id": 30,
@@ -477,7 +489,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 45
 	},
 	{
 		"id": 31,
@@ -493,7 +506,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 10.99
+		"price": 10.99,
+		"score": 45
 	},
 	{
 		"id": 32,
@@ -509,7 +523,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 9.99
+		"price": 9.99,
+		"score": 45
 	},
 	{
 		"id": 33,
@@ -525,7 +540,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 19.99
+		"price": 19.99,
+		"score": 45
 	},
 	{
 		"id": 34,
@@ -541,7 +557,8 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 15.99
+		"price": 15.99,
+		"score": 45
 	},
 	{
 		"id": 35,
@@ -557,6 +574,24 @@
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
 			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
 		],
-		"price": 24.99
+		"price": 24.99,
+		"score": 45
+	},
+	{
+		"id": 8,
+		"title": "Metal Gear Solid 3",
+		"subtitle": "Snake Eater",
+		"image": {
+			"cart": "/Dandy-Game-Shop/img/add-to-cart/product-preview.png",
+			"banner": "",
+			"cover": "/Dandy-Game-Shop/img/game/cover/metal_gear_solid_3.jpg"
+		},
+		"topseller": false,
+		"summary": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper a risus in consequat. Quisque feugiat arcu nec dui eleifend, fringilla fringilla arcu ultrices. Vestibulum neque sapien, placerat et leo pretium, porttitor euismod magna. Morbi quis augue sagittis, lobortis tortor et, auctor eros. Aenean eu ex id erat efficitur laoreet. Suspendisse fermentum ante in erat pulvinar viverra. Quisque aliquet lectus sed justo bibendum, et commodo nisl pretium.",
+			"Cras vitae quam quis orci scelerisque pulvinar nec ut lorem. Praesent pharetra velit lacus, quis consequat nulla tempor non. Nulla ac efficitur lacus. Duis lorem diam, euismod eget lobortis eget, euismod sed sapien. Nullam lobortis sapien eget dapibus tincidunt. Sed non dictum risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+		],
+		"price": 15.99,
+		"score": 100
 	}
 ]
