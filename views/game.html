@@ -6,11 +6,12 @@
 		<div class="item-details col-md-6 col-sm-5 col-xs-12">
 			<p ng-repeat="summary in game.summary">{{summary}}</p>
 		</div>
-		<div class="item-price col-md-3 col-sm-3 col-xs-12">
+		<div class="item-numbers col-md-3 col-sm-3 col-xs-12">
+			<div class="score-label">Dandy Rating</div>
 			<div class="item-score">
 				<span ng-class="{'score-low': game.score <= 40, 'score-med': (game.score > 40 && game.score <= 70), 'score-high': game.score > 70}">{{game.score}}</span>/100
 			</div>
-			${{game.price | number : 2}}
+			<span class="item-price">${{game.price | number : 2}}</span>
 			<a class="btn btn-warning" ng-click="addToCart(game.id, 1)">Add to Cart</a>
 		</div>
 	</div>
