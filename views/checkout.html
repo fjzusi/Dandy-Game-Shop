@@ -155,8 +155,13 @@
                 <div class="checkout-item" ng-repeat="game in cartItems">
                     {{game.title}}
                     {{game.quantity}}
+x
+${{game.price}}
+=
+${{game.quantity * game.price}}
                 </div>
             </div>
+<div class="checkout-total">$0.00</div>
         </div>
     </div>
 </div>
