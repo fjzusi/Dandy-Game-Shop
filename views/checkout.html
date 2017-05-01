@@ -151,17 +151,24 @@
             </div>
         </div>
         <div class="col-lg-4">
-            <div class="checkout-items">
-                <div class="checkout-item" ng-repeat="game in cartItems">
-                    {{game.title}}
-                    {{game.quantity}}
-                    x
-                    ${{game.price}}
-                    =
-                    ${{game.quantity * game.price}}
+            <div class="checkout-summary">
+                <header><h2>Cart</h2></header>
+                <div class="checkout-items">
+                    <ul>
+                        <li class="checkout-item row" ng-repeat="game in cartItems">
+                            <div class="checkout-image col-xs-3">
+                                <img class="img-responsive" ng-src="{{game.image.cover}}" />
+                            </div>
+                            <div class="checkout-details col-xs-9">
+                                <h3>{{game.title}}</h3>
+                                <span class="checkout-price">${{game.price}}</span>
+                                <span class="checkout-quantity">{{game.quantity}}</span>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
+                <footer><em>Total: $0.00</em></footer>
             </div>
-            <div class="checkout-total">$0.00</div>
         </div>
     </div>
 </div>
