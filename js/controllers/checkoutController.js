@@ -1,9 +1,20 @@
 app.controller('checkoutController',
 	['$scope', '$rootScope', '$location', 'cartService',
 	function ($scope, $rootScope, $location, cartService) {
-		cartService.addToCart(3, 1);
-		cartService.addToCart(7, 2);
-		cartService.addToCart(13, 1);
+		$scope.total = 0;
+
+		$scope.calculateCheckoutTotal = function() {
+			$scope.total = 0;
+			console.log($rootScope.cartItems);
+			angular.forEach($rootScope.cartItems, function (game, key) {
+				$scope.total += game.price * game.quantity;
+
+				console.log(game);
+				console.log(key);
+			});
+		};
+
+		$scope.calculateCheckoutTotal();
 
 		$scope.$watch(
 			"cartEmpty",
