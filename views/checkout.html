@@ -6,7 +6,27 @@
     </div>
 
     <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-lg-push-8 col-md-push-6 col-sm-push-6">
+            <div class="checkout-summary">
+                <header><h2>Cart</h2></header>
+                <div class="checkout-items">
+                    <ul>
+                        <li class="checkout-item row" ng-repeat="game in cartItems">
+                            <div class="checkout-image col-xs-3">
+                                <img class="img-responsive" ng-src="{{game.image.cover}}" />
+                            </div>
+                            <div class="checkout-details col-xs-9">
+                                <h3>{{game.title}}</h3>
+                                <span class="checkout-price">${{game.price}}</span>
+                                <span class="checkout-quantity">{{game.quantity}}</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <footer><em>Total: ${{total|number:'2'}}</em></footer>
+            </div>
+        </div>
+        <div class="col-lg-8 col-md-6 col-sm-6 col-xs-12 col-lg-pull-4 col-md-pull-6 col-sm-pull-6">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 form-group">
                     <label for="first-name">First Name</label>
@@ -101,7 +121,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-6 col-sm-3 form-group">
+                    <div class="col-lg-3 col-md-6 form-group">
                         <label for="expiration-month">Month</label>
                         <select id="expiration-month" class="form-control">
                             <option></option>
@@ -119,7 +139,7 @@
                             <option>12 - December</option>
                         </select>
                     </div>
-                    <div class="col-xs-6 col-sm-3 form-group">
+                    <div class="col-lg-3 col-md-6 form-group">
                         <label for="expiration-year">Year</label>
                         <select id="expiration-year" class="form-control">
                             <option></option>
@@ -139,35 +159,15 @@
                             <option>2030</option>
                         </select>
                     </div>
-                    <div class="col-xs-6 col-sm-3 form-group">
+                    <div class="col-lg-3 col-md-6 form-group">
                         <label for="security-code">CVV</label>
                         <input id="security-code" class="form-control" type="number" />
                     </div>
-                    <div class="col-xs-6 col-sm-3 form-group">
+                    <div class="col-lg-3 col-md-6 form-group">
                         <label for="billing-zip">Billing Zip Code</label>
                         <input id="billing-zip" class="form-control" type="number" />
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="checkout-summary">
-                <header><h2>Cart</h2></header>
-                <div class="checkout-items">
-                    <ul>
-                        <li class="checkout-item row" ng-repeat="game in cartItems">
-                            <div class="checkout-image col-xs-3">
-                                <img class="img-responsive" ng-src="{{game.image.cover}}" />
-                            </div>
-                            <div class="checkout-details col-xs-9">
-                                <h3>{{game.title}}</h3>
-                                <span class="checkout-price">${{game.price}}</span>
-                                <span class="checkout-quantity">{{game.quantity}}</span>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <footer><em>Total: ${{total|number:'2'}}</em></footer>
             </div>
         </div>
     </div>
