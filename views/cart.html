@@ -28,6 +28,7 @@
 									<label ng-attr-for="{{'game-quantity-' + game.id}}">Qty</label>
 									<span class="select">
 										<select
+											class="form-control"
 											ng-attr-id="{{'game-quantity-' + game.id}}"
 											ng-model="game.quantity"
 											ng-change="updateQuantity(game.id, game.quantity)"

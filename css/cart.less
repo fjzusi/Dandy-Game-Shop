@@ -456,43 +456,12 @@ Main Components
 .cd-cart .select {
   position: relative;
 }
-.cd-cart .select::after {
-  /* switcher arrow for select element */
-  content: '';
-  position: absolute;
-  z-index: 1;
-  right: 0;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-  display: block;
-  width: 12px;
-  height: 12px;
-  background: url(/Dandy-Game-Shop/img/add-to-cart/cd-icon-select.svg) no-repeat center center;
-  pointer-events: none;
-}
 .cd-cart select {
   position: relative;
-  padding: 0 1em 0 0;
   cursor: pointer;
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  background: transparent;
-  border: none;
-  border-radius: 0;
-  margin: 0;
   color: #808b97;
-}
-.cd-cart select:focus {
-  outline: none;
-  color: #2b3e51;
-  box-shadow: 0 1px 0 currentColor;
-}
-.cd-cart select::-ms-expand {
-  /* hide default select arrow on IE */
-  display: none;
+  display: inline;
+  width: auto;
 }
 .cart-open .cd-cart .wrapper {
   height: 100%;
