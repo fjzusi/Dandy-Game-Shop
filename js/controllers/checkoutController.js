@@ -5,12 +5,8 @@ app.controller('checkoutController',
 
 		$scope.calculateCheckoutTotal = function() {
 			$scope.total = 0;
-			console.log($rootScope.cartItems);
 			angular.forEach($rootScope.cartItems, function (game, key) {
 				$scope.total += game.price * game.quantity;
-
-				console.log(game);
-				console.log(key);
 			});
 		};
 
@@ -20,7 +16,7 @@ app.controller('checkoutController',
 			"cartEmpty",
 			function onCartEmptyChange(oldValue, newValue) {
 				if(oldValue) {
-					//$location.url("/");
+					$location.url("/");
 				}
 			}
 		);
