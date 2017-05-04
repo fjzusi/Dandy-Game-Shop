@@ -55,6 +55,14 @@ function cartService($rootScope, gamesService) {
 		}
 	}
 
+	this.emptyCart = function() {
+		$rootScope.cartItems = [];
+		$rootScope.cartEmpty = true;
+		$rootScope.cartOpen = false;
+		$rootScope.cartQuantity = 0;
+		$rootScope.cartTotal = 0;
+	}
+
 	function calculateCartTotals() {
 		$rootScope.cartTotal = 0;
 		$rootScope.cartQuantity = 0;
